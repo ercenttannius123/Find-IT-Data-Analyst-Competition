@@ -130,9 +130,6 @@ Model yang dapat mengklasifikasi dengan akurasi tinggi:
 
 Private - Untuk keperluan akademis
 
-## 📞 Support
-
-Untuk pertanyaan atau issues, silakan buat issue di repository ini.
 
 ## 🔗 Resources
 
