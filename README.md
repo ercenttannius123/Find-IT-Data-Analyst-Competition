@@ -99,11 +99,17 @@ Proyek menggunakan:
 ## 🎓 Features
 
 ✅ Data exploration dan visualization
+
 ✅ Image augmentation dengan albumentations
+
 ✅ Multiple model architectures
+
 ✅ Cross-validation dan hyperparameter tuning
+
 ✅ Performance metrics visualization
+
 ✅ Model ensembling
+
 ✅ Competition submission format
 
 ## 📊 Expected Outcomes
