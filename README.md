@@ -124,7 +124,7 @@ Model yang dapat mengklasifikasi dengan akurasi tinggi:
 - Ercent Tannius
 - Erica Patricia Susanto
 - Winson Jonathan
-- DAC Competition 2026
+- DAC Competition 2026 - Universitas Gadjah Mada
 
 ## 📝 License
 
